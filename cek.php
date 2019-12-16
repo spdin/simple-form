@@ -71,7 +71,7 @@ else
 
 <?php
 
-include '../../koneksi.php';
+include 'koneksi.php';
 
 $conn = open_db();
 
